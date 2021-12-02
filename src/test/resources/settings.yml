@@ -1,0 +1,5 @@
+email: test@test.com
+username: forTest
+password: 12345678Aa
+baseUrl: http://localhost:8080
+titleBlankImage: /home/aivar/Pictures/title.jpg
